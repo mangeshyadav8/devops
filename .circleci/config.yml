@@ -23,6 +23,6 @@ jobs:
       - run:
           name: verify cookbook style
           command: |
-          foodcritic cookbooks/ms
-          #  echo 'test'
+         # foodcritic cookbooks/ms
+          echo 'test'
            
