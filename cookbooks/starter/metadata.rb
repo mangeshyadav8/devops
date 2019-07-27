@@ -1,0 +1,5 @@
+name 'test'
+description 'my cookbook'
+version '1.0.0'
+maintainer 'Mangesh Yadav.'
+maintainer_email 'yadavmangesh8@gmail.com'
